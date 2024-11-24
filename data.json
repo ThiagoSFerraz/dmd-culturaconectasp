@@ -1,0 +1,62 @@
+{
+   "pinacoteca": {
+      "theme": "pinacoteca",
+      "questions": [
+         {
+            "text": "Em que ano a Pinacoteca do Estado foi inaugurada?",
+            "options": ["1911", "1922", "1930", "1895"],
+            "correctOption": 0
+         },
+         {
+            "text": "Quem foi o arquiteto responsável pelo projeto do edifício da Pinacoteca do Estado?",
+            "options": [
+               "Paulo Mendes da Rocha",
+               "Ramos de Azevedo",
+               "Oscar Niemeyer",
+               "Lúcio Costa"
+            ],
+            "correctOption": 1
+         },
+         {
+            "text": "Qual o nome do Parque onde a Pinacoteca do Estado de São Paulo está localizada?",
+            "options": [
+               "Parque Ibirapuera",
+               "Parque do Povo",
+               "Parque Trianon",
+               "Parque da Luz"
+            ],
+            "correctOption": 3
+         },
+         {
+            "text": "Qual é o foco principal do acervo da Pinacoteca do Estado ?",
+            "options": [
+               "Arte Contemporânea Internacional",
+               "Arte Renascentista Italiana",
+               "Arte Brasileira com foco predominante nos séculos XIX e XX",
+               "Arte Africana"
+            ],
+            "correctOption": 2
+         },
+         {
+            "text": "Quem foi o arquiteto responsável pela reforma do Edifício da Pinacoteca do Estado de São Paulo no ano de 1990?",
+            "options": [
+               "Paulo Mendes da Rocha",
+               "Eduardo Longo",
+               "Lina Bo Bardi",
+               "Vila Nova Artigas"
+            ],
+            "correctOption": 0
+         },
+         {
+            "text": "Quais dos artistas abaixo a Pinacoteca do Estado detém um acervo maior de obras? ",
+            "options": [
+               "Anita Mafalti",
+               "Tarsila do Amaral",
+               "José Ferraz de Almeida Jr",
+               "Lasar Segall"
+            ],
+            "correctOption": 2
+         }
+      ]
+   }
+}
